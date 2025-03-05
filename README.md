@@ -1,0 +1,1 @@
+# NextJS_and_GraphQL
