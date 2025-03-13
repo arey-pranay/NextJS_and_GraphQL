@@ -88,7 +88,3 @@
      - Calling REST endpoints within GraphQL resolvers (API Gateway pattern)
    - **GraphQL with Third-Party Services**
      - Integrating with external APIs (e.g., payment gateways, social media)
-
----
-
-This expanded index includes detailed points under each topic to help organize your notes and expand your understanding of GraphQL, REST APIs, and their integration with Next.js, as well as various use cases for GraphQL queries. Let me know if you need further elaboration on any section!
